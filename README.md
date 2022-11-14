@@ -1,2 +1,2 @@
-# mkdpics
-markdown notes pictures
+# markdown images
+markdown notes images.
